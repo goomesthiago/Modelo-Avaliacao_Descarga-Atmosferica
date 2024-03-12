@@ -1,0 +1,1 @@
+C:\ATP\tools\runATP.exe C:\ATP\atpdraw\work\VAO_01_estocastico.atp * -r
